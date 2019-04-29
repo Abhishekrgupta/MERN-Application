@@ -1,0 +1,28 @@
+.required {
+  color: red;
+  font-size: 1rem;
+}
+label {
+  font-weight: bold;
+}
+body {
+  height: 100%;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
+
+.person-head{
+  font-weight: bold;
+}
+
+.person-edit{
+  margin-bottom: 10px;
+}
